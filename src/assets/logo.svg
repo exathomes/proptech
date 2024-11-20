@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g transform="translate(8, 8)">
+    <!-- Left blue shape -->
+    <path d="M0 12C0 7.58172 3.58172 4 8 4C12.4183 4 16 7.58172 16 12H0Z" fill="#60A5FA"/>
+    
+    <!-- Middle purple shape -->
+    <path d="M8 0C12.4183 0 16 3.58172 16 8C16 12.4183 12.4183 16 8 16C3.58172 16 0 12.4183 0 8C0 3.58172 3.58172 0 8 0Z" fill="#8B5CF6"/>
+    
+    <!-- Right pink shape -->
+    <path d="M16 12C16 7.58172 19.5817 4 24 4C28.4183 4 32 7.58172 32 12H16Z" fill="#EC4899"/>
+  </g>
+</svg>
